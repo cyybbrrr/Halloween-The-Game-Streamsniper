@@ -3,6 +3,8 @@
 An always-on-top external panel that OCR-reads **only the bright text** on your screen. Everything darker than the
 "Text brightness" setting (the background) is thrown away before OCR runs, so it never reads the background.
 
+Streamsnipe your friends and have fun! I do not encourage witch-hunting with this program. I just saw it as a fun project.
+
 **This is a TEST concept for a stream-sniper for Halloween: The Game. If you use this tool and get banned, I will not be responsible. It is your decision to run something that is still in testing.**
 
 This program should work on all resolutions, please report bugs to me on Discord if something seems off. It is confirmed so far to fully work on 1440p displays.
