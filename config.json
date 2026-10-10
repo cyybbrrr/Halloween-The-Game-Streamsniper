@@ -1,0 +1,43 @@
+{
+  "keywords": [
+    "ttv",
+    "tv",
+    "twitch",
+    "t.tv",
+    "twitch.tv",
+    "tiktok",
+    "kick"
+  ],
+  "region": [
+    81,
+    327,
+    649,
+    828
+  ],
+  "leave_phrase": "Leave Match",
+  "matchmake_phrase": "MATCHMAKE",
+  "scan_interval": 1.0,
+  "misses_required": 3,
+  "min_text_chars": 8,
+  "fuzzy_threshold": 0.85,
+  "button_fuzzy": 0.8,
+  "text_brightness": 150,
+  "min_conf": 45,
+  "region_scale": 2.0,
+  "screen_scale": 1.0,
+  "config_version": 3,
+  "confirm_delay": 0.2,
+  "confirm_timeout": 6.0,
+  "center_scale": 2.0,
+  "dark_text_threshold": 110,
+  "matchmake_delay": 5.0,
+  "streamsnipe_delay": 5.0,
+  "resume_delay": 10.0,
+  "cooldown": 5.0,
+  "center_fraction": 0.7,
+  "find_attempts": 5,
+  "monitor": 1,
+  "alpha": 0.9,
+  "leave_steps": "key:esc",
+  "invert": true
+}
